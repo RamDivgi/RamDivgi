@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m from Kumta, currently studying Engineering in Mangaluru<br>👯 contact me at sarveshdivgi@gmail.com<br>🌱 I’m currently learning Web Development<br>⚡ Fun fact - I Love Coding
+🔭 I’m from Kumta, currently studying Engineering in Mangaluru<br>👯 contact me at sarveshdivgi@gmail.com<br>🌱 I’m currently learning Web Development<br>⚡ Fun fact - I like solving what annoys people🔍
 
 
 ## 🌐 Socials:
