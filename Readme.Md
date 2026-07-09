@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m from Kumta, currently studying Engineering in Mangaluru<br>👯 contact me at sarveshdivgi@gmail.com<br>🌱 I’m currently learning Data Analysis and AI-powered Applications<br>⚡ Fun fact - I see AI as my co-builder, not just my coding assistant.
+🔭 I’m from Kumta, currently studying Engineering in Mangaluru<br>👯 contact me at sarveshdivgi@gmail.com<br>🌱 I’m currently learning Data Analysis and AI-powered Applications<br>⚡ Fun fact - I love exploring how far AI can take a simple idea.
 
 
 ## 🌐 Socials:
