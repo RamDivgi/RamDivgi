@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m from Kumta, currently studying Engineering in Mangaluru<br>👯 contact me at sarveshdivgi@gmail.com<br>🌱 I’m currently learning Data Analysis and AI-powered Applications<br>⚡ Fun fact - I love exploring how far AI can take a simple idea.
+🔭 I'm from Kumta, currently pursuing B.E. in Artificial Intelligence & Machine Learning at Canara Engineering College, Mangaluru.<br>
+🌐 Explore my work & portfolio: https://ramdivgi.github.io/portfolio/<br>
+👯 Reach me at: sarveshdivgi@gmail.com<br>
+🌱 Currently learning Data Analysis, AI-powered Applications, and Full-Stack Development.<br>
+⚡ Fun fact: I love using AI to turn simple ideas into practical software.
 
 
 ## 🌐 Socials:
