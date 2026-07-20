@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I'm from Kumta, currently pursuing B.E. in Artificial Intelligence & Machine Learning at Canara Engineering College, Mangaluru.<br>
-🌐 Explore my work & portfolio <a href="https://ramdivgi.github.io/portfolio/" target="_blank">Here</a><br>
+🌐 Explore my work & portfolio <a href="https://portfolio-ramdivgi.vercel.app/" target="_blank">Here</a><br>
 👯 Reach me at: sarveshdivgi@gmail.com<br>
 🌱 Currently learning Data Analysis, AI-powered Applications, and Full-Stack Development.<br>
 ⚡ Fun fact: I love using AI to turn simple ideas into practical software.
